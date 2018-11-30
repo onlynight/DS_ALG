@@ -45,8 +45,6 @@ void mergeList(int * list1, int list1Len, int * list2, int list2Len, int * list3
 
 int main()
 {
-    printf("%s\n", "Hello World!");
-
     int list1[] = {1,2,3,4,5};
     int list2[] = {2,5,8,10};
     int list3[9] = {0};
